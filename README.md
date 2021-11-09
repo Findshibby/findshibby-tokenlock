@@ -1,4 +1,3 @@
-details following*
 
 PancakeSwap Liquidity Pool
 https://www.pinksale.finance/#/pinklock/record/1397?chain=BSC
